@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Efawater-final project", "Efawater-final project\Efawater-final project.csproj", "{D21FE07A-7EE1-4121-8B4F-0CFD44D10227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21FE07A-7EE1-4121-8B4F-0CFD44D10227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21FE07A-7EE1-4121-8B4F-0CFD44D10227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21FE07A-7EE1-4121-8B4F-0CFD44D10227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21FE07A-7EE1-4121-8B4F-0CFD44D10227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BE7A411-BD65-47B5-A251-F2E3C3CF3E17}
+	EndGlobalSection
+EndGlobal
